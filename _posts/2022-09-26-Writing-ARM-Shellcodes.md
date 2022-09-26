@@ -62,7 +62,7 @@ objcopy -O binary fichier.bin fichier.dump && hexdump -v -e '"\\""x" 1/1 "%02x" 
 
 here is how to make a structure in ARM : 
 
-```arm
+```nasm
 adr r1, _sockaddr @ sockaddr struct 
 ...
 
@@ -76,7 +76,7 @@ then we use dup2() to redirect the standard outputs.
 
 ### Password-Protected Reverse Shell
 
-```arm
+```nasm
 .section .text
 .global _start
 _start:
@@ -167,7 +167,7 @@ as ARM-reverse-shell.s -o ARM-reverse-shell.o && ld -N ARM-reverse-shell.o -o AR
 | ---- |:----------------------- | --- | ----
 | 2      | fork | 0x02 |    - |
 
-```arm
+```nasm
 .text
 .global .start
 
