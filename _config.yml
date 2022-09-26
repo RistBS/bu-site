@@ -8,13 +8,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-seo-tag
-logo: "/assets/images/masthead.png"
+logo: "/_assets/cat.png"
 masthead_title: "HomePage"
 search: true
 # Site Author
 author:
   name: "RistBS"
-  avatar: "/assets/images/bc-profile.jpg"
+  avatar: "/_assets/cat.png"
   bio: "AD/Maldev enthusiast"
   location: "France"
   links:
