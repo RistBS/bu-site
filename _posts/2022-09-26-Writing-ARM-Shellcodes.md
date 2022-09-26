@@ -1,9 +1,15 @@
 ---
-layout: post
-title: Writing ARM Shellcode
----
+title: Writing ARM Shellcodes
+date: 2022-9-26
+layout: single
+classes: wide
+tags:
+  - Assembly
+  - Pwn
+  - Shellcode
+--- 
 
-**PWN** | First post that teaches you how to write shellcodes in ARM.
+This first post will teach you how to write shellcodes in ARM.
 
 ## Shellcode Writing Basics
 
