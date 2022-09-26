@@ -182,7 +182,7 @@ as ARM-reverse-shell.s -o ARM-reverse-shell.o && ld -N ARM-reverse-shell.o -o AR
 ![](https://i.imgur.com/GcsZD2P.png)
 
 
-##### useful ressources : 
+### useful ressources : 
 - https://www.youtube.com/watch?v=9tx293lbGuc
 - https://www.youtube.com/watch?v=c_jUELOScLc
 
