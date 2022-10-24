@@ -1,6 +1,10 @@
 RistBS Blog  
 [Twitter](https://twitter.com/RistBs) • [GitHub](https://github.com/RistBS)
 
+you can support me here :cat: :
+<a href="https://www.buymeacoffee.com/RistBS"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Pizza&emoji=🍕&slug=bsolomon&button_colour=5F7FFF&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+
+
 --- 
 # Red Team
 *Malware Development*     
